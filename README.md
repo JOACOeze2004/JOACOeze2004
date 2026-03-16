@@ -21,11 +21,13 @@
  
 ## 🛠️ Stack & Tecnologías
 
-<div align="center">
- 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,ps,postgres,git,github,discord,linux,windows,docker,bash,vscode,clion,idea&theme=dark)](https://skillicons.dev)
- 
-</div>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,postgres,git&theme=dark" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,discord,linux,windows,docker,bash,vscode,clion,idea&theme=dark" />
+</p>
  
 ---
  
