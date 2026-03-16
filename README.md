@@ -1,6 +1,6 @@
 <div align="center">
  
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff0000&height=200&section=header&text=Joaquin%20Mendez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20engineer%20student%20and%20developer&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:8b0000,100:ff0000&height=200&section=header&text=Joaquin%20Mendez&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Estudiante%20de%20ingeniería%20en%20informática&descAlignY=58&descSize=18)
  
 # ¡Hola! Soy **Joaquín Méndez Archerrizo** 👋
  
