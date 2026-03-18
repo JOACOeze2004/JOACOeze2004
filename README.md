@@ -10,7 +10,7 @@
  
 ---
  
-## 🙋 Sobre mí
+## Sobre mí
  
 - 🏫 Cursando el 4to año de **Ingeniería en Informática** en la Facultad de Ingeniería de Buenos Aires (FIUBA)
 - 🌱 Aprendiendo: **Rust, programación concurrente y computación cuántica.**
@@ -19,7 +19,7 @@
  
 ---
  
-## 🛠️ Stack & Tecnologías
+## Stack & Tecnologías
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,postgres,git&theme=dark" />
@@ -42,7 +42,7 @@
  
 ---
  
-## 📊 Mis estadísticas
+## Estadísticas
 
 <div align="center">
 
