@@ -19,7 +19,7 @@
  
 ---
  
-## Stack & Tecnologías
+## 🛠️Stack & Tecnologías
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,postgres,git&theme=dark" />
@@ -42,7 +42,7 @@
  
 ---
  
-## Estadísticas
+## 📈 Estadísticas
 
 <div align="center">
 
