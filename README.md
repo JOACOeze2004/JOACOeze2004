@@ -8,17 +8,6 @@
  
 </div>
  
----
- 
-## Sobre mí
- 
-- 🏫 Cursando el 4to año de **Ingeniería en Informática** en la Facultad de Ingeniería de Buenos Aires (FIUBA)
-- 🌱 Aprendiendo: **Rust, programación concurrente y computación cuántica.**
-- 💡 Me interesa: **Arquitectura de servidores, backend, sistemas de bases de datos, programación orientada a objetos y computación cuántica.**
-- 🇦🇷 Ciudad Autónoma de Buenos Aires, Argentina.
- 
----
- 
 ## 🛠️Stack & Tecnologías
 
 <p align="center">
