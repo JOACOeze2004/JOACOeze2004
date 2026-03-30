@@ -11,16 +11,16 @@
 ## 🛠️Stack & Tecnologías
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,postgres,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,flask,html,mongodb,postgres,markdown&theme=dark" />
 </p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,discord,linux,windows,docker,bash,vscode,clion,idea&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,discord,linux,windows,docker,bash,vscode,clion,idea&theme=dark" />
 </p>
  
 ---
  
-## 🚀 Proyectos destacados de la facultad
+## 🚀 Proyectos destacados de la facultad e individuales
  
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
@@ -28,6 +28,7 @@
 | [📦 Página web estilo Netflix](https://github.com/FerreiroNicolas/TP-01_INTRO) | Página web que permite ver información de distintas películas, como duración, puntaje de la crítica, tráiler, actores, etc., y también dejar tu opinión sobre ellas | `HTML` `CSS` `JavaScript` `Flask` `Python` `PostgreSQL` |
 | [📦 Gwent](https://github.com/JOACOeze2004/Algo3-TP2-Gwent-Grupo-01) | Recreación del juego de cartas Gwent de *The Witcher 3*, con énfasis en programación orientada a objetos | `Java` |
 | [📦 Need for Speed con vista top-down](https://github.com/JOACOeze2004/Taller-NFS-Grupo-08) | Juego de carreras con soporte de servidor, donde los jugadores pueden crear o unirse a partidas, competir con otros y mejorar sus autos al finalizar cada carrera | `C++` `Qt` |
+| [📦 Analziador de repositorios](https://github.com/JOACOeze2004/https://github.com/JOACOeze2004/Analizador-repositorios) | Pagina web que analiza varias metricas sobre repositorios para obtener métricas detalladas de actividad, calidad de código, contributors y salud del proyecto  | `HTML` `CSS` `JavaScript` `Flask` `Python` `Flask` `PostgreSQL` `PyGithub` `Lizard` `ThreadPoolExecutor` |
  
 ---
  
