@@ -28,7 +28,7 @@
 | [📦 Página web estilo Netflix](https://github.com/FerreiroNicolas/TP-01_INTRO) | Página web que permite ver información de distintas películas, como duración, puntaje de la crítica, tráiler, actores, etc., y también dejar tu opinión sobre ellas | `HTML` `CSS` `JavaScript` `Flask` `Python` `PostgreSQL` |
 | [📦 Gwent](https://github.com/JOACOeze2004/Algo3-TP2-Gwent-Grupo-01) | Recreación del juego de cartas Gwent de *The Witcher 3*, con énfasis en programación orientada a objetos | `Java` `JavaFX` `JUnit`|
 | [📦 Need for Speed con vista top-down](https://github.com/JOACOeze2004/Taller-NFS-Grupo-08) | Juego de carreras con soporte de servidor, donde los jugadores pueden crear o unirse a partidas, competir con otros y mejorar sus autos al finalizar cada carrera | `C++` `Qt` `SDL` |
-| [📦 Analizador de repositorios](https://github.com/JOACOeze2004/Analizador-repositorios) | Pagina web que analiza varias metricas sobre repositorios para obtener métricas detalladas de actividad, calidad de código, contributors y salud del proyecto  | `HTML` `CSS` `JavaScript` `Flask` `Python` `Flask` `PostgreSQL` `PyGithub` `Lizard` `ThreadPoolExecutor` |
+| [📦 Analizador de repositorios](https://github.com/JOACOeze2004/Analizador-repositorios) | Pagina web que analiza varias metricas sobre repositorios para obtener métricas detalladas de actividad, calidad de código, contributors y salud del proyecto  | `HTML` `CSS` `JavaScript` `Flask` `Python` `PostgreSQL` `PyGithub` `Lizard` `ThreadPoolExecutor` |
  
 ---
  
